@@ -58,16 +58,11 @@ To explore the most up-to-date version of Dotify, please visit the [homepage](ht
 
 ## 📷 Preview
 
-![Dotify Preview](your-image-link-here)
+![Sotify Preview](Spotify-Clone-UI.png)
 
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to open an issue or submit a pull request.
-
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ---
 
 Crafted with ❤️ by [Naveen S](https://github.com/naveencreation)
