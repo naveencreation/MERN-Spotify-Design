@@ -3,11 +3,11 @@
 
 Dotify is a modern, single-page application built using Docker, GraphQL, and the MERN stack (MongoDB, Express, React, Node). Inspired by the concept and style of Spotify, it allows users to explore, play, and manage their favorite music seamlessly.
 
-![Dotify Preview](your-image-link-here)
+![Dotify Preview](Spotify-Design-Concept)
 
 ## 🚀 How It Works
 
-To explore the most up-to-date version of Dotify, please visit the [homepage](your-live-link-here).
+To explore the most up-to-date version of Dotify, please visit the [homepage](https://github.com/naveencreation/MERN-Spotify-Dotify).
 
 ## 🛠️ Technologies Used
 
@@ -70,4 +70,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Crafted with ❤️ by [Your Name](your-profile-link)
+Crafted with ❤️ by [Naveen S](https://github.com/naveencreation)
